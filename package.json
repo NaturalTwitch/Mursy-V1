@@ -9,7 +9,7 @@
   "author": "NaturalTwitch",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/opus": "^0.6.0",
+    "@discordjs/opus": "^0.8.0",
     "@discordjs/voice": "^0.6.0",
     "@koenie06/discord.js-music": "^1.2.9",
     "discord-music-player": "^8.0.2",
